@@ -20,4 +20,7 @@ export function Exemplo01() {
 
   calculadora.executarOperacao(operacao, 10, 5)
 
+  operacao = 'exponencial'
+
+  calculadora.executarOperacao(operacao, 5, 2)
 }
